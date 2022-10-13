@@ -1,0 +1,83 @@
+@font-face {
+  font-family: "me_quran_num";
+  src: url("../Fonts/me_quran_num.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "me_quran_num";
+  src: url("../Fonts/me_quran_num.otf");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "me_quran_num";
+  src: url("../Fonts/me_quran_num.otf");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "me_quran_num";
+  src: url("../Fonts/me_quran_num.otf");
+  font-weight: bold;
+  font-style: italic;
+}
+*{
+	direction: rtl;
+    margin: 0em;
+    padding: 0em;
+    font-family: 'me_quran_num', 'Arial';
+    font-size:1em;
+}
+hr {
+   display: block;
+   padding:0px;
+   margin-top: 0em;
+   margin-bottom: 0.5em;
+   margin-left: auto;
+   margin-right: auto;
+   border: 0;
+   height: 1px;
+   background: #e6e6e6;
+   width:50%
+}
+
+
+.juz{
+    position:fixed;
+    background-color: white;
+    right:0px;
+    font-size: 0.90em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.block_content {
+    color: black;
+    display: block;
+    text-align: justify;
+    font-size: 100%;
+    font-weight: normal;
+    margin-right: 25px;
+    margin-left: 25px;
+    padding: 0px;
+
+    }
+
+.block_sura{
+    display: block;
+    font-size: 1.20em;
+    font-weight: bold;
+    text-align: center;
+    margin: 0em;
+    padding: 0em;
+ 
+    }
+.block_juz{
+    display: block;
+    font-size: 0.8em;
+    font-weight: bold;
+    text-align: center;
+    margin: 0em;
+    padding: 0em;
+    }

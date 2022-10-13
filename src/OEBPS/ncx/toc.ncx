@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:00f82bd8-b93d-4984-a4e2-9cf7128f01cb" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+<docTitle>
+  <text>Quran - Uthmani writing style</text>
+</docTitle>
+<navMap>
+  
+<navPoint id="navPoint1">
+    <navLabel>
+      <text>Al-Faatiha</text>
+    </navLabel>
+    <content src="../Text/Al-Faatiha.xhtml" />
+  </navPoint>
+<navPoint id="navPoint2">
+    <navLabel>
+      <text>Al-Baqara</text>
+    </navLabel>
+    <content src="../Text/Al-Baqara.xhtml" />
+  </navPoint>
+<navPoint id="navPoint3">
+    <navLabel>
+      <text>Aal-i-Imraan</text>
+    </navLabel>
+    <content src="../Text/Aal-i-Imraan.xhtml" />
+  </navPoint>
+<navPoint id="navPoint4">
+    <navLabel>
+      <text>An-Nisaa</text>
+    </navLabel>
+    <content src="../Text/An-Nisaa.xhtml" />
+  </navPoint>
+<navPoint id="navPoint5">
+    <navLabel>
+      <text>Al-Maaida</text>
+    </navLabel>
+    <content src="../Text/Al-Maaida.xhtml" />
+  </navPoint>
+<navPoint id="navPoint6">
+    <navLabel>
+      <text>Al-Anaam</text>
+    </navLabel>
+    <content src="../Text/Al-Anaam.xhtml" />
+  </navPoint>
+<navPoint id="navPoint7">
+    <navLabel>
+      <text>Al-Araaf</text>
+    </navLabel>
+    <content src="../Text/Al-Araaf.xhtml" />
+  </navPoint>
+<navPoint id="navPoint8">
+    <navLabel>
+      <text>Al-Anfaal</text>
+    </navLabel>
+    <content src="../Text/Al-Anfaal.xhtml" />
+  </navPoint>
+<navPoint id="navPoint9">
+    <navLabel>
+      <text>At-Tawba</text>
+    </navLabel>
+    <content src="../Text/At-Tawba.xhtml" />
+  </navPoint>
+<navPoint id="navPoint10">
+    <navLabel>
+      <text>Yunus</text>
+    </navLabel>
+    <content src="../Text/Yunus.xhtml" />
+  </navPoint>
+<navPoint id="navPoint11">
+    <navLabel>
+      <text>Hud</text>
+    </navLabel>
+    <content src="../Text/Hud.xhtml" />
+  </navPoint>
+<navPoint id="navPoint12">
+    <navLabel>
+      <text>Yusuf</text>
+    </navLabel>
+    <content src="../Text/Yusuf.xhtml" />
+  </navPoint>
+<navPoint id="navPoint13">
+    <navLabel>
+      <text>Ar-Rad</text>
+    </navLabel>
+    <content src="../Text/Ar-Rad.xhtml" />
+  </navPoint>
+<navPoint id="navPoint14">
+    <navLabel>
+      <text>Ibrahim</text>
+    </navLabel>
+    <content src="../Text/Ibrahim.xhtml" />
+  </navPoint>
+<navPoint id="navPoint15">
+    <navLabel>
+      <text>Al-Hijr</text>
+    </navLabel>
+    <content src="../Text/Al-Hijr.xhtml" />
+  </navPoint>
+<navPoint id="navPoint16">
+    <navLabel>
+      <text>An-Nahl</text>
+    </navLabel>
+    <content src="../Text/An-Nahl.xhtml" />
+  </navPoint>
+<navPoint id="navPoint17">
+    <navLabel>
+      <text>Al-Israa</text>
+    </navLabel>
+    <content src="../Text/Al-Israa.xhtml" />
+  </navPoint>
+<navPoint id="navPoint18">
+    <navLabel>
+      <text>Al-Kahf</text>
+    </navLabel>
+    <content src="../Text/Al-Kahf.xhtml" />
+  </navPoint>
+<navPoint id="navPoint19">
+    <navLabel>
+      <text>Maryam</text>
+    </navLabel>
+    <content src="../Text/Maryam.xhtml" />
+  </navPoint>
+<navPoint id="navPoint20">
+    <navLabel>
+      <text>Taa-Haa</text>
+    </navLabel>
+    <content src="../Text/Taa-Haa.xhtml" />
+  </navPoint>
+<navPoint id="navPoint21">
+    <navLabel>
+      <text>Al-Anbiyaa</text>
+    </navLabel>
+    <content src="../Text/Al-Anbiyaa.xhtml" />
+  </navPoint>
+<navPoint id="navPoint22">
+    <navLabel>
+      <text>Al-Hajj</text>
+    </navLabel>
+    <content src="../Text/Al-Hajj.xhtml" />
+  </navPoint>
+<navPoint id="navPoint23">
+    <navLabel>
+      <text>Al-Muminoon</text>
+    </navLabel>
+    <content src="../Text/Al-Muminoon.xhtml" />
+  </navPoint>
+<navPoint id="navPoint24">
+    <navLabel>
+      <text>An-Noor</text>
+    </navLabel>
+    <content src="../Text/An-Noor.xhtml" />
+  </navPoint>
+<navPoint id="navPoint25">
+    <navLabel>
+      <text>Al-Furqaan</text>
+    </navLabel>
+    <content src="../Text/Al-Furqaan.xhtml" />
+  </navPoint>
+<navPoint id="navPoint26">
+    <navLabel>
+      <text>Ash-Shuaraa</text>
+    </navLabel>
+    <content src="../Text/Ash-Shuaraa.xhtml" />
+  </navPoint>
+<navPoint id="navPoint27">
+    <navLabel>
+      <text>An-Naml</text>
+    </navLabel>
+    <content src="../Text/An-Naml.xhtml" />
+  </navPoint>
+<navPoint id="navPoint28">
+    <navLabel>
+      <text>Al-Qasas</text>
+    </navLabel>
+    <content src="../Text/Al-Qasas.xhtml" />
+  </navPoint>
+<navPoint id="navPoint29">
+    <navLabel>
+      <text>Al-Ankaboot</text>
+    </navLabel>
+    <content src="../Text/Al-Ankaboot.xhtml" />
+  </navPoint>
+<navPoint id="navPoint30">
+    <navLabel>
+      <text>Ar-Room</text>
+    </navLabel>
+    <content src="../Text/Ar-Room.xhtml" />
+  </navPoint>
+<navPoint id="navPoint31">
+    <navLabel>
+      <text>Luqman</text>
+    </navLabel>
+    <content src="../Text/Luqman.xhtml" />
+  </navPoint>
+<navPoint id="navPoint32">
+    <navLabel>
+      <text>As-Sajda</text>
+    </navLabel>
+    <content src="../Text/As-Sajda.xhtml" />
+  </navPoint>
+<navPoint id="navPoint33">
+    <navLabel>
+      <text>Al-Ahzaab</text>
+    </navLabel>
+    <content src="../Text/Al-Ahzaab.xhtml" />
+  </navPoint>
+<navPoint id="navPoint34">
+    <navLabel>
+      <text>Saba</text>
+    </navLabel>
+    <content src="../Text/Saba.xhtml" />
+  </navPoint>
+<navPoint id="navPoint35">
+    <navLabel>
+      <text>Faatir</text>
+    </navLabel>
+    <content src="../Text/Faatir.xhtml" />
+  </navPoint>
+<navPoint id="navPoint36">
+    <navLabel>
+      <text>Yaseen</text>
+    </navLabel>
+    <content src="../Text/Yaseen.xhtml" />
+  </navPoint>
+<navPoint id="navPoint37">
+    <navLabel>
+      <text>As-Saaffaat</text>
+    </navLabel>
+    <content src="../Text/As-Saaffaat.xhtml" />
+  </navPoint>
+<navPoint id="navPoint38">
+    <navLabel>
+      <text>Saad</text>
+    </navLabel>
+    <content src="../Text/Saad.xhtml" />
+  </navPoint>
+<navPoint id="navPoint39">
+    <navLabel>
+      <text>Az-Zumar</text>
+    </navLabel>
+    <content src="../Text/Az-Zumar.xhtml" />
+  </navPoint>
+<navPoint id="navPoint40">
+    <navLabel>
+      <text>Al-Ghaafir</text>
+    </navLabel>
+    <content src="../Text/Al-Ghaafir.xhtml" />
+  </navPoint>
+<navPoint id="navPoint41">
+    <navLabel>
+      <text>Fussilat</text>
+    </navLabel>
+    <content src="../Text/Fussilat.xhtml" />
+  </navPoint>
+<navPoint id="navPoint42">
+    <navLabel>
+      <text>Ash-Shura</text>
+    </navLabel>
+    <content src="../Text/Ash-Shura.xhtml" />
+  </navPoint>
+<navPoint id="navPoint43">
+    <navLabel>
+      <text>Az-Zukhruf</text>
+    </navLabel>
+    <content src="../Text/Az-Zukhruf.xhtml" />
+  </navPoint>
+<navPoint id="navPoint44">
+    <navLabel>
+      <text>Ad-Dukhaan</text>
+    </navLabel>
+    <content src="../Text/Ad-Dukhaan.xhtml" />
+  </navPoint>
+<navPoint id="navPoint45">
+    <navLabel>
+      <text>Al-Jaathiya</text>
+    </navLabel>
+    <content src="../Text/Al-Jaathiya.xhtml" />
+  </navPoint>
+<navPoint id="navPoint46">
+    <navLabel>
+      <text>Al-Ahqaf</text>
+    </navLabel>
+    <content src="../Text/Al-Ahqaf.xhtml" />
+  </navPoint>
+<navPoint id="navPoint47">
+    <navLabel>
+      <text>Muhammad</text>
+    </navLabel>
+    <content src="../Text/Muhammad.xhtml" />
+  </navPoint>
+<navPoint id="navPoint48">
+    <navLabel>
+      <text>Al-Fath</text>
+    </navLabel>
+    <content src="../Text/Al-Fath.xhtml" />
+  </navPoint>
+<navPoint id="navPoint49">
+    <navLabel>
+      <text>Al-Hujuraat</text>
+    </navLabel>
+    <content src="../Text/Al-Hujuraat.xhtml" />
+  </navPoint>
+<navPoint id="navPoint50">
+    <navLabel>
+      <text>Qaaf</text>
+    </navLabel>
+    <content src="../Text/Qaaf.xhtml" />
+  </navPoint>
+<navPoint id="navPoint51">
+    <navLabel>
+      <text>Adh-Dhaariyat</text>
+    </navLabel>
+    <content src="../Text/Adh-Dhaariyat.xhtml" />
+  </navPoint>
+<navPoint id="navPoint52">
+    <navLabel>
+      <text>At-Tur</text>
+    </navLabel>
+    <content src="../Text/At-Tur.xhtml" />
+  </navPoint>
+<navPoint id="navPoint53">
+    <navLabel>
+      <text>An-Najm</text>
+    </navLabel>
+    <content src="../Text/An-Najm.xhtml" />
+  </navPoint>
+<navPoint id="navPoint54">
+    <navLabel>
+      <text>Al-Qamar</text>
+    </navLabel>
+    <content src="../Text/Al-Qamar.xhtml" />
+  </navPoint>
+<navPoint id="navPoint55">
+    <navLabel>
+      <text>Ar-Rahmaan</text>
+    </navLabel>
+    <content src="../Text/Ar-Rahmaan.xhtml" />
+  </navPoint>
+<navPoint id="navPoint56">
+    <navLabel>
+      <text>Al-Waaqia</text>
+    </navLabel>
+    <content src="../Text/Al-Waaqia.xhtml" />
+  </navPoint>
+<navPoint id="navPoint57">
+    <navLabel>
+      <text>Al-Hadid</text>
+    </navLabel>
+    <content src="../Text/Al-Hadid.xhtml" />
+  </navPoint>
+<navPoint id="navPoint58">
+    <navLabel>
+      <text>Al-Mujaadila</text>
+    </navLabel>
+    <content src="../Text/Al-Mujaadila.xhtml" />
+  </navPoint>
+<navPoint id="navPoint59">
+    <navLabel>
+      <text>Al-Hashr</text>
+    </navLabel>
+    <content src="../Text/Al-Hashr.xhtml" />
+  </navPoint>
+<navPoint id="navPoint60">
+    <navLabel>
+      <text>Al-Mumtahana</text>
+    </navLabel>
+    <content src="../Text/Al-Mumtahana.xhtml" />
+  </navPoint>
+<navPoint id="navPoint61">
+    <navLabel>
+      <text>As-Saff</text>
+    </navLabel>
+    <content src="../Text/As-Saff.xhtml" />
+  </navPoint>
+<navPoint id="navPoint62">
+    <navLabel>
+      <text>Al-Jumua</text>
+    </navLabel>
+    <content src="../Text/Al-Jumua.xhtml" />
+  </navPoint>
+<navPoint id="navPoint63">
+    <navLabel>
+      <text>Al-Munaafiqoon</text>
+    </navLabel>
+    <content src="../Text/Al-Munaafiqoon.xhtml" />
+  </navPoint>
+<navPoint id="navPoint64">
+    <navLabel>
+      <text>At-Taghaabun</text>
+    </navLabel>
+    <content src="../Text/At-Taghaabun.xhtml" />
+  </navPoint>
+<navPoint id="navPoint65">
+    <navLabel>
+      <text>At-Talaaq</text>
+    </navLabel>
+    <content src="../Text/At-Talaaq.xhtml" />
+  </navPoint>
+<navPoint id="navPoint66">
+    <navLabel>
+      <text>At-Tahrim</text>
+    </navLabel>
+    <content src="../Text/At-Tahrim.xhtml" />
+  </navPoint>
+<navPoint id="navPoint67">
+    <navLabel>
+      <text>Al-Mulk</text>
+    </navLabel>
+    <content src="../Text/Al-Mulk.xhtml" />
+  </navPoint>
+<navPoint id="navPoint68">
+    <navLabel>
+      <text>Al-Qalam</text>
+    </navLabel>
+    <content src="../Text/Al-Qalam.xhtml" />
+  </navPoint>
+<navPoint id="navPoint69">
+    <navLabel>
+      <text>Al-Haaqqa</text>
+    </navLabel>
+    <content src="../Text/Al-Haaqqa.xhtml" />
+  </navPoint>
+<navPoint id="navPoint70">
+    <navLabel>
+      <text>Al-Maaarij</text>
+    </navLabel>
+    <content src="../Text/Al-Maaarij.xhtml" />
+  </navPoint>
+<navPoint id="navPoint71">
+    <navLabel>
+      <text>Nooh</text>
+    </navLabel>
+    <content src="../Text/Nooh.xhtml" />
+  </navPoint>
+<navPoint id="navPoint72">
+    <navLabel>
+      <text>Al-Jinn</text>
+    </navLabel>
+    <content src="../Text/Al-Jinn.xhtml" />
+  </navPoint>
+<navPoint id="navPoint73">
+    <navLabel>
+      <text>Al-Muzzammil</text>
+    </navLabel>
+    <content src="../Text/Al-Muzzammil.xhtml" />
+  </navPoint>
+<navPoint id="navPoint74">
+    <navLabel>
+      <text>Al-Muddaththir</text>
+    </navLabel>
+    <content src="../Text/Al-Muddaththir.xhtml" />
+  </navPoint>
+<navPoint id="navPoint75">
+    <navLabel>
+      <text>Al-Qiyaama</text>
+    </navLabel>
+    <content src="../Text/Al-Qiyaama.xhtml" />
+  </navPoint>
+<navPoint id="navPoint76">
+    <navLabel>
+      <text>Al-Insaan</text>
+    </navLabel>
+    <content src="../Text/Al-Insaan.xhtml" />
+  </navPoint>
+<navPoint id="navPoint77">
+    <navLabel>
+      <text>Al-Mursalaat</text>
+    </navLabel>
+    <content src="../Text/Al-Mursalaat.xhtml" />
+  </navPoint>
+<navPoint id="navPoint78">
+    <navLabel>
+      <text>An-Naba</text>
+    </navLabel>
+    <content src="../Text/An-Naba.xhtml" />
+  </navPoint>
+<navPoint id="navPoint79">
+    <navLabel>
+      <text>An-Naaziaat</text>
+    </navLabel>
+    <content src="../Text/An-Naaziaat.xhtml" />
+  </navPoint>
+<navPoint id="navPoint80">
+    <navLabel>
+      <text>Abasa</text>
+    </navLabel>
+    <content src="../Text/Abasa.xhtml" />
+  </navPoint>
+<navPoint id="navPoint81">
+    <navLabel>
+      <text>At-Takwir</text>
+    </navLabel>
+    <content src="../Text/At-Takwir.xhtml" />
+  </navPoint>
+<navPoint id="navPoint82">
+    <navLabel>
+      <text>Al-Infitaar</text>
+    </navLabel>
+    <content src="../Text/Al-Infitaar.xhtml" />
+  </navPoint>
+<navPoint id="navPoint83">
+    <navLabel>
+      <text>Al-Mutaffifin</text>
+    </navLabel>
+    <content src="../Text/Al-Mutaffifin.xhtml" />
+  </navPoint>
+<navPoint id="navPoint84">
+    <navLabel>
+      <text>Al-Inshiqaaq</text>
+    </navLabel>
+    <content src="../Text/Al-Inshiqaaq.xhtml" />
+  </navPoint>
+<navPoint id="navPoint85">
+    <navLabel>
+      <text>Al-Burooj</text>
+    </navLabel>
+    <content src="../Text/Al-Burooj.xhtml" />
+  </navPoint>
+<navPoint id="navPoint86">
+    <navLabel>
+      <text>At-Taariq</text>
+    </navLabel>
+    <content src="../Text/At-Taariq.xhtml" />
+  </navPoint>
+<navPoint id="navPoint87">
+    <navLabel>
+      <text>Al-Alaa</text>
+    </navLabel>
+    <content src="../Text/Al-Alaa.xhtml" />
+  </navPoint>
+<navPoint id="navPoint88">
+    <navLabel>
+      <text>Al-Ghaashiya</text>
+    </navLabel>
+    <content src="../Text/Al-Ghaashiya.xhtml" />
+  </navPoint>
+<navPoint id="navPoint89">
+    <navLabel>
+      <text>Al-Fajr</text>
+    </navLabel>
+    <content src="../Text/Al-Fajr.xhtml" />
+  </navPoint>
+<navPoint id="navPoint90">
+    <navLabel>
+      <text>Al-Balad</text>
+    </navLabel>
+    <content src="../Text/Al-Balad.xhtml" />
+  </navPoint>
+<navPoint id="navPoint91">
+    <navLabel>
+      <text>Ash-Shams</text>
+    </navLabel>
+    <content src="../Text/Ash-Shams.xhtml" />
+  </navPoint>
+<navPoint id="navPoint92">
+    <navLabel>
+      <text>Al-Lail</text>
+    </navLabel>
+    <content src="../Text/Al-Lail.xhtml" />
+  </navPoint>
+<navPoint id="navPoint93">
+    <navLabel>
+      <text>Ad-Dhuhaa</text>
+    </navLabel>
+    <content src="../Text/Ad-Dhuhaa.xhtml" />
+  </navPoint>
+<navPoint id="navPoint94">
+    <navLabel>
+      <text>Ash-Sharh</text>
+    </navLabel>
+    <content src="../Text/Ash-Sharh.xhtml" />
+  </navPoint>
+<navPoint id="navPoint95">
+    <navLabel>
+      <text>At-Tin</text>
+    </navLabel>
+    <content src="../Text/At-Tin.xhtml" />
+  </navPoint>
+<navPoint id="navPoint96">
+    <navLabel>
+      <text>Al-Alaq</text>
+    </navLabel>
+    <content src="../Text/Al-Alaq.xhtml" />
+  </navPoint>
+<navPoint id="navPoint97">
+    <navLabel>
+      <text>Al-Qadr</text>
+    </navLabel>
+    <content src="../Text/Al-Qadr.xhtml" />
+  </navPoint>
+<navPoint id="navPoint98">
+    <navLabel>
+      <text>Al-Bayyina</text>
+    </navLabel>
+    <content src="../Text/Al-Bayyina.xhtml" />
+  </navPoint>
+<navPoint id="navPoint99">
+    <navLabel>
+      <text>Az-Zalzala</text>
+    </navLabel>
+    <content src="../Text/Az-Zalzala.xhtml" />
+  </navPoint>
+<navPoint id="navPoint100">
+    <navLabel>
+      <text>Al-Aadiyaat</text>
+    </navLabel>
+    <content src="../Text/Al-Aadiyaat.xhtml" />
+  </navPoint>
+<navPoint id="navPoint101">
+    <navLabel>
+      <text>Al-Qaaria</text>
+    </navLabel>
+    <content src="../Text/Al-Qaaria.xhtml" />
+  </navPoint>
+<navPoint id="navPoint102">
+    <navLabel>
+      <text>At-Takaathur</text>
+    </navLabel>
+    <content src="../Text/At-Takaathur.xhtml" />
+  </navPoint>
+<navPoint id="navPoint103">
+    <navLabel>
+      <text>Al-Asr</text>
+    </navLabel>
+    <content src="../Text/Al-Asr.xhtml" />
+  </navPoint>
+<navPoint id="navPoint104">
+    <navLabel>
+      <text>Al-Humaza</text>
+    </navLabel>
+    <content src="../Text/Al-Humaza.xhtml" />
+  </navPoint>
+<navPoint id="navPoint105">
+    <navLabel>
+      <text>Al-Fil</text>
+    </navLabel>
+    <content src="../Text/Al-Fil.xhtml" />
+  </navPoint>
+<navPoint id="navPoint106">
+    <navLabel>
+      <text>Quraish</text>
+    </navLabel>
+    <content src="../Text/Quraish.xhtml" />
+  </navPoint>
+<navPoint id="navPoint107">
+    <navLabel>
+      <text>Al-Maaun</text>
+    </navLabel>
+    <content src="../Text/Al-Maaun.xhtml" />
+  </navPoint>
+<navPoint id="navPoint108">
+    <navLabel>
+      <text>Al-Kawthar</text>
+    </navLabel>
+    <content src="../Text/Al-Kawthar.xhtml" />
+  </navPoint>
+<navPoint id="navPoint109">
+    <navLabel>
+      <text>Al-Kaafiroon</text>
+    </navLabel>
+    <content src="../Text/Al-Kaafiroon.xhtml" />
+  </navPoint>
+<navPoint id="navPoint110">
+    <navLabel>
+      <text>An-Nasr</text>
+    </navLabel>
+    <content src="../Text/An-Nasr.xhtml" />
+  </navPoint>
+<navPoint id="navPoint111">
+    <navLabel>
+      <text>Al-Masad</text>
+    </navLabel>
+    <content src="../Text/Al-Masad.xhtml" />
+  </navPoint>
+<navPoint id="navPoint112">
+    <navLabel>
+      <text>Al-Ikhlaas</text>
+    </navLabel>
+    <content src="../Text/Al-Ikhlaas.xhtml" />
+  </navPoint>
+<navPoint id="navPoint113">
+    <navLabel>
+      <text>Al-Falaq</text>
+    </navLabel>
+    <content src="../Text/Al-Falaq.xhtml" />
+  </navPoint>
+<navPoint id="navPoint114">
+    <navLabel>
+      <text>An-Naas</text>
+    </navLabel>
+    <content src="../Text/An-Naas.xhtml" />
+  </navPoint>
+<navPoint id="navPoint115">
+    <navLabel>
+      <text>Sommaire</text>
+    </navLabel>
+    <content src="../Text/TOC.xhtml" />
+  </navPoint>
+
+</navMap>
+</ncx>

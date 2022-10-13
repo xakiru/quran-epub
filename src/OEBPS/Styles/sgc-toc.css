@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "me_quran_num";
+  src: url("../Fonts/me_quran_num.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "me_quran_num";
+  src: url("../Fonts/me_quran_num.otf");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "me_quran_num";
+  src: url("../Fonts/me_quran_num.otf");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "me_quran_num";
+  src: url("../Fonts/me_quran_num.otf");
+  font-weight: bold;
+  font-style: italic;
+}
+*{
+	text-align:center;
+	page-break-after: avoid;
+    page-break-inside: avoid;
+}
+body{
+	direction: rtl;
+    font-family: 'me_quran_num';
+	font-size: 1em;
+	padding: 0px 0px 0px 0px;
+	margin: 0.1 0.1 0.1 0.1;
+}
+
+table {
+	width:84%;
+	
+    padding:0px;
+	margin: 0 auto;
+    
+	border-spacing: 0.8em;
+    border-collapse: separate;
+    border:0;
+	
+    font-size: 80%;
+}
+td{
+	width:33%;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.title{
+	font-size: 70%;
+}
+

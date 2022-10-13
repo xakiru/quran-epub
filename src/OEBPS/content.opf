@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package dir="rtl" version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator id="cre">Allah</dc:creator>
+    <meta property="role" refines="#cre" scheme="marc:relators">aut</meta>
+    <dc:language>ar</dc:language>
+    <dc:title>Quran</dc:title>
+    <meta property="dcterms:modified">2022-07-08T16:09:44Z</meta>
+    <dc:identifier id="BookId">urn:uuid:00f82bd8-b93d-4984-a4e2-9cf7128f01cb</dc:identifier>
+    <meta name="cover" content="cover.jpeg"/>
+  </metadata>
+  <manifest>
+    <item id="sgc-nav.css" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="cover.jpeg" href="Images/cover.jpeg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="sgc-toc.css" href="Styles/sgc-toc.css" media-type="text/css"/>
+    <item id="stylesheet.css" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item id="TOC.xhtml" href="Text/TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="ncx/toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="me_quran_num.otf" href="Fonts/me_quran_num.otf" media-type="font/otf"/>
+	<item id="Al-Faatiha" href="Text/Al-Faatiha.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Baqara" href="Text/Al-Baqara.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Baqara1" href="Text/Al-Baqara1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Baqara2" href="Text/Al-Baqara2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Aal-i-Imraan" href="Text/Aal-i-Imraan.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Aal-i-Imraan1" href="Text/Aal-i-Imraan1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="An-Nisaa" href="Text/An-Nisaa.xhtml" media-type="application/xhtml+xml"/>
+    <item id="An-Nisaa1" href="Text/An-Nisaa1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="An-Nisaa2" href="Text/An-Nisaa2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Maaida" href="Text/Al-Maaida.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Maaida1" href="Text/Al-Maaida1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Anaam" href="Text/Al-Anaam.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Anaam1" href="Text/Al-Anaam1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Araaf" href="Text/Al-Araaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Araaf1" href="Text/Al-Araaf1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Anfaal" href="Text/Al-Anfaal.xhtml" media-type="application/xhtml+xml"/>
+    <item id="At-Tawba" href="Text/At-Tawba.xhtml" media-type="application/xhtml+xml"/>
+    <item id="At-Tawba1" href="Text/At-Tawba1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Yunus" href="Text/Yunus.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Yunus1" href="Text/Yunus1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Hud" href="Text/Hud.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Hud1" href="Text/Hud1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Yusuf" href="Text/Yusuf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ar-Rad" href="Text/Ar-Rad.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ar-Rad1" href="Text/Ar-Rad1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ibrahim" href="Text/Ibrahim.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Hijr" href="Text/Al-Hijr.xhtml" media-type="application/xhtml+xml"/>
+    <item id="An-Nahl" href="Text/An-Nahl.xhtml" media-type="application/xhtml+xml"/>
+    <item id="An-Nahl1" href="Text/An-Nahl1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Israa" href="Text/Al-Israa.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Kahf" href="Text/Al-Kahf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Kahf1" href="Text/Al-Kahf1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Maryam" href="Text/Maryam.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Taa-Haa" href="Text/Taa-Haa.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Anbiyaa" href="Text/Al-Anbiyaa.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Anbiyaa1" href="Text/Al-Anbiyaa1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Hajj" href="Text/Al-Hajj.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Muminoon" href="Text/Al-Muminoon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="An-Noor" href="Text/An-Noor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="An-Noor1" href="Text/An-Noor1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Furqaan" href="Text/Al-Furqaan.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ash-Shuaraa" href="Text/Ash-Shuaraa.xhtml" media-type="application/xhtml+xml"/>
+    <item id="An-Naml" href="Text/An-Naml.xhtml" media-type="application/xhtml+xml"/>
+    <item id="An-Naml1" href="Text/An-Naml1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Qasas" href="Text/Al-Qasas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Ankaboot" href="Text/Al-Ankaboot.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ar-Room" href="Text/Ar-Room.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ar-Room1" href="Text/Ar-Room1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Luqman" href="Text/Luqman.xhtml" media-type="application/xhtml+xml"/>
+    <item id="As-Sajda" href="Text/As-Sajda.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Ahzaab" href="Text/Al-Ahzaab.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Saba" href="Text/Saba.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Saba1" href="Text/Saba1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Faatir" href="Text/Faatir.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Yaseen" href="Text/Yaseen.xhtml" media-type="application/xhtml+xml"/>
+    <item id="As-Saaffaat" href="Text/As-Saaffaat.xhtml" media-type="application/xhtml+xml"/>
+    <item id="As-Saaffaat1" href="Text/As-Saaffaat1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Saad" href="Text/Saad.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Az-Zumar" href="Text/Az-Zumar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Ghaafir" href="Text/Al-Ghaafir.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Ghaafir1" href="Text/Al-Ghaafir1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Fussilat" href="Text/Fussilat.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ash-Shura" href="Text/Ash-Shura.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Az-Zukhruf" href="Text/Az-Zukhruf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Az-Zukhruf1" href="Text/Az-Zukhruf1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ad-Dukhaan" href="Text/Ad-Dukhaan.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Jaathiya" href="Text/Al-Jaathiya.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Ahqaf" href="Text/Al-Ahqaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Muhammad" href="Text/Muhammad.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Fath" href="Text/Al-Fath.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Hujuraat" href="Text/Al-Hujuraat.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Hujuraat1" href="Text/Al-Hujuraat1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Qaaf" href="Text/Qaaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Adh-Dhaariyat" href="Text/Adh-Dhaariyat.xhtml" media-type="application/xhtml+xml"/>
+    <item id="At-Tur" href="Text/At-Tur.xhtml" media-type="application/xhtml+xml"/>
+    <item id="An-Najm" href="Text/An-Najm.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Qamar" href="Text/Al-Qamar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ar-Rahmaan" href="Text/Ar-Rahmaan.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Waaqia" href="Text/Al-Waaqia.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Hadid" href="Text/Al-Hadid.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Mujaadila" href="Text/Al-Mujaadila.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Mujaadila1" href="Text/Al-Mujaadila1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Hashr" href="Text/Al-Hashr.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Mumtahana" href="Text/Al-Mumtahana.xhtml" media-type="application/xhtml+xml"/>
+    <item id="As-Saff" href="Text/As-Saff.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Jumua" href="Text/Al-Jumua.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Munaafiqoon" href="Text/Al-Munaafiqoon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="At-Taghaabun" href="Text/At-Taghaabun.xhtml" media-type="application/xhtml+xml"/>
+    <item id="At-Talaaq" href="Text/At-Talaaq.xhtml" media-type="application/xhtml+xml"/>
+    <item id="At-Tahrim" href="Text/At-Tahrim.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Mulk" href="Text/Al-Mulk.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Qalam" href="Text/Al-Qalam.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Haaqqa" href="Text/Al-Haaqqa.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Maaarij" href="Text/Al-Maaarij.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Nooh" href="Text/Nooh.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Jinn" href="Text/Al-Jinn.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Muzzammil" href="Text/Al-Muzzammil.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Muddaththir" href="Text/Al-Muddaththir.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Qiyaama" href="Text/Al-Qiyaama.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Insaan" href="Text/Al-Insaan.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Mursalaat" href="Text/Al-Mursalaat.xhtml" media-type="application/xhtml+xml"/>
+    <item id="An-Naba" href="Text/An-Naba.xhtml" media-type="application/xhtml+xml"/>
+    <item id="An-Naaziaat" href="Text/An-Naaziaat.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Abasa" href="Text/Abasa.xhtml" media-type="application/xhtml+xml"/>
+    <item id="At-Takwir" href="Text/At-Takwir.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Infitaar" href="Text/Al-Infitaar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Mutaffifin" href="Text/Al-Mutaffifin.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Inshiqaaq" href="Text/Al-Inshiqaaq.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Burooj" href="Text/Al-Burooj.xhtml" media-type="application/xhtml+xml"/>
+    <item id="At-Taariq" href="Text/At-Taariq.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Alaa" href="Text/Al-Alaa.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Ghaashiya" href="Text/Al-Ghaashiya.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Fajr" href="Text/Al-Fajr.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Balad" href="Text/Al-Balad.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ash-Shams" href="Text/Ash-Shams.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Lail" href="Text/Al-Lail.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ad-Dhuhaa" href="Text/Ad-Dhuhaa.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ash-Sharh" href="Text/Ash-Sharh.xhtml" media-type="application/xhtml+xml"/>
+    <item id="At-Tin" href="Text/At-Tin.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Alaq" href="Text/Al-Alaq.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Qadr" href="Text/Al-Qadr.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Bayyina" href="Text/Al-Bayyina.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Az-Zalzala" href="Text/Az-Zalzala.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Aadiyaat" href="Text/Al-Aadiyaat.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Qaaria" href="Text/Al-Qaaria.xhtml" media-type="application/xhtml+xml"/>
+    <item id="At-Takaathur" href="Text/At-Takaathur.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Asr" href="Text/Al-Asr.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Humaza" href="Text/Al-Humaza.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Fil" href="Text/Al-Fil.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Quraish" href="Text/Quraish.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Maaun" href="Text/Al-Maaun.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Kawthar" href="Text/Al-Kawthar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Kaafiroon" href="Text/Al-Kaafiroon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="An-Nasr" href="Text/An-Nasr.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Masad" href="Text/Al-Masad.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Ikhlaas" href="Text/Al-Ikhlaas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Al-Falaq" href="Text/Al-Falaq.xhtml" media-type="application/xhtml+xml"/>
+    <item id="An-Naas" href="Text/An-Naas.xhtml" media-type="application/xhtml+xml"/>
+    
+  </manifest>
+  <spine page-progression-direction="rtl" toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+	<itemref idref="Al-Faatiha"/>
+    <itemref idref="Al-Baqara"/>
+    <itemref idref="Al-Baqara1"/>
+    <itemref idref="Al-Baqara2"/>
+    <itemref idref="Aal-i-Imraan"/>
+    <itemref idref="Aal-i-Imraan1"/>
+    <itemref idref="An-Nisaa"/>
+    <itemref idref="An-Nisaa1"/>
+    <itemref idref="An-Nisaa2"/>
+    <itemref idref="Al-Maaida"/>
+    <itemref idref="Al-Maaida1"/>
+    <itemref idref="Al-Anaam"/>
+    <itemref idref="Al-Anaam1"/>
+    <itemref idref="Al-Araaf"/>
+    <itemref idref="Al-Araaf1"/>
+    <itemref idref="Al-Anfaal"/>
+    <itemref idref="At-Tawba"/>
+    <itemref idref="At-Tawba1"/>
+    <itemref idref="Yunus"/>
+    <itemref idref="Yunus1"/>
+    <itemref idref="Hud"/>
+    <itemref idref="Hud1"/>
+    <itemref idref="Yusuf"/>
+    <itemref idref="Ar-Rad"/>
+    <itemref idref="Ar-Rad1"/>
+    <itemref idref="Ibrahim"/>
+    <itemref idref="Al-Hijr"/>
+    <itemref idref="An-Nahl"/>
+    <itemref idref="An-Nahl1"/>
+    <itemref idref="Al-Israa"/>
+    <itemref idref="Al-Kahf"/>
+    <itemref idref="Al-Kahf1"/>
+    <itemref idref="Maryam"/>
+    <itemref idref="Taa-Haa"/>
+    <itemref idref="Al-Anbiyaa"/>
+    <itemref idref="Al-Anbiyaa1"/>
+    <itemref idref="Al-Hajj"/>
+    <itemref idref="Al-Muminoon"/>
+    <itemref idref="An-Noor"/>
+    <itemref idref="An-Noor1"/>
+    <itemref idref="Al-Furqaan"/>
+    <itemref idref="Ash-Shuaraa"/>
+    <itemref idref="An-Naml"/>
+    <itemref idref="An-Naml1"/>
+    <itemref idref="Al-Qasas"/>
+    <itemref idref="Al-Ankaboot"/>
+    <itemref idref="Ar-Room"/>
+    <itemref idref="Ar-Room1"/>
+    <itemref idref="Luqman"/>
+    <itemref idref="As-Sajda"/>
+    <itemref idref="Al-Ahzaab"/>
+    <itemref idref="Saba"/>
+    <itemref idref="Saba1"/>
+    <itemref idref="Faatir"/>
+    <itemref idref="Yaseen"/>
+    <itemref idref="As-Saaffaat"/>
+    <itemref idref="As-Saaffaat1"/>
+    <itemref idref="Saad"/>
+    <itemref idref="Az-Zumar"/>
+    <itemref idref="Al-Ghaafir"/>
+    <itemref idref="Al-Ghaafir1"/>
+    <itemref idref="Fussilat"/>
+    <itemref idref="Ash-Shura"/>
+    <itemref idref="Az-Zukhruf"/>
+    <itemref idref="Az-Zukhruf1"/>
+    <itemref idref="Ad-Dukhaan"/>
+    <itemref idref="Al-Jaathiya"/>
+    <itemref idref="Al-Ahqaf"/>
+    <itemref idref="Muhammad"/>
+    <itemref idref="Al-Fath"/>
+    <itemref idref="Al-Hujuraat"/>
+    <itemref idref="Al-Hujuraat1"/>
+    <itemref idref="Qaaf"/>
+    <itemref idref="Adh-Dhaariyat"/>
+    <itemref idref="At-Tur"/>
+    <itemref idref="An-Najm"/>
+    <itemref idref="Al-Qamar"/>
+    <itemref idref="Ar-Rahmaan"/>
+    <itemref idref="Al-Waaqia"/>
+    <itemref idref="Al-Hadid"/>
+    <itemref idref="Al-Mujaadila"/>
+    <itemref idref="Al-Mujaadila1"/>
+    <itemref idref="Al-Hashr"/>
+    <itemref idref="Al-Mumtahana"/>
+    <itemref idref="As-Saff"/>
+    <itemref idref="Al-Jumua"/>
+    <itemref idref="Al-Munaafiqoon"/>
+    <itemref idref="At-Taghaabun"/>
+    <itemref idref="At-Talaaq"/>
+    <itemref idref="At-Tahrim"/>
+    <itemref idref="Al-Mulk"/>
+    <itemref idref="Al-Qalam"/>
+    <itemref idref="Al-Haaqqa"/>
+    <itemref idref="Al-Maaarij"/>
+    <itemref idref="Nooh"/>
+    <itemref idref="Al-Jinn"/>
+    <itemref idref="Al-Muzzammil"/>
+    <itemref idref="Al-Muddaththir"/>
+    <itemref idref="Al-Qiyaama"/>
+    <itemref idref="Al-Insaan"/>
+    <itemref idref="Al-Mursalaat"/>
+    <itemref idref="An-Naba"/>
+    <itemref idref="An-Naaziaat"/>
+    <itemref idref="Abasa"/>
+    <itemref idref="At-Takwir"/>
+    <itemref idref="Al-Infitaar"/>
+    <itemref idref="Al-Mutaffifin"/>
+    <itemref idref="Al-Inshiqaaq"/>
+    <itemref idref="Al-Burooj"/>
+    <itemref idref="At-Taariq"/>
+    <itemref idref="Al-Alaa"/>
+    <itemref idref="Al-Ghaashiya"/>
+    <itemref idref="Al-Fajr"/>
+    <itemref idref="Al-Balad"/>
+    <itemref idref="Ash-Shams"/>
+    <itemref idref="Al-Lail"/>
+    <itemref idref="Ad-Dhuhaa"/>
+    <itemref idref="Ash-Sharh"/>
+    <itemref idref="At-Tin"/>
+    <itemref idref="Al-Alaq"/>
+    <itemref idref="Al-Qadr"/>
+    <itemref idref="Al-Bayyina"/>
+    <itemref idref="Az-Zalzala"/>
+    <itemref idref="Al-Aadiyaat"/>
+    <itemref idref="Al-Qaaria"/>
+    <itemref idref="At-Takaathur"/>
+    <itemref idref="Al-Asr"/>
+    <itemref idref="Al-Humaza"/>
+    <itemref idref="Al-Fil"/>
+    <itemref idref="Quraish"/>
+    <itemref idref="Al-Maaun"/>
+    <itemref idref="Al-Kawthar"/>
+    <itemref idref="Al-Kaafiroon"/>
+    <itemref idref="An-Nasr"/>
+    <itemref idref="Al-Masad"/>
+    <itemref idref="Al-Ikhlaas"/>
+    <itemref idref="Al-Falaq"/>
+    <itemref idref="An-Naas"/>
+    
+  </spine>
+  <guide>
+    <reference type="cover" title="Couverture" href="Text/cover.xhtml"/>
+    <reference type="toc" title="Table des matières" href="Text/TOC.xhtml"/>
+  </guide>
+</package>
