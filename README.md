@@ -12,6 +12,9 @@ I replaced the rub' sign with a star to enhance performance
 I compiled the text into an epub format
 Created menus and all the standard requirements for epub books
 
+## Download Quran_kobo.epub
+https://github.com/xakiru/quran-epub/releases
+
 ## Tests and issues
 I'm only using this on Kobo Clara HD and Kobo Libra H2O, if you try it on any other ereader and find issues, please let me know I will be glad to fix the bugs
 
