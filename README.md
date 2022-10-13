@@ -1,5 +1,5 @@
 # Quran.epub
-This is the epub version of the holy quran dedicated for ereader and based on the original texts coming from https://tanzil.net/
+This is the epub version of the holy quran (in arabic) dedicated for ereader and based on the original texts coming from https://tanzil.net/
 
 ## Background
 I've struggled finding a good quran book that would have uthmani writing style with all the signs and arabic numbers (instead of hindi numbers), an even when I found some it did run so slow on my Kobo Clara and Kobo Libra H2O, and sometimes it even crash. 
